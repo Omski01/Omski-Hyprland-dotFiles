@@ -5,8 +5,13 @@
 
 
 --What I used for these dot files:
+
 -Python
+
 -Fabric
+
 -An X-Wing
+
 -A Millenium Falcon
+
 -My nerves

@@ -15,3 +15,19 @@
 -A Millenium Falcon
 
 -My nerves
+
+--Fabric widget functionality:
+
+-Display time
+
+-Display a welcome message
+
+-Display weather
+
+-Display user picture
+
+-Display chosen apps
+
+-Display terminal
+
+-Display files
